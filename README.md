@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <b>jipascript</b>!</h1>
 
-###🌱 Currently Learning
+#🌱 Currently Learning
 - 🐘 PHP & Web Development
 - 🛠️ Git & GitHub
 - 🧠 Basic Programming Concepts
