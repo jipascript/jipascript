@@ -1,5 +1,10 @@
-# 👋 Hi, I’m @jipascript
+<h1 align="center">Hi there 👋, I'm <b>jipascript</b>!</h1>
 
-## 🌱 About me
-I'm a beginner who's just starting my journey in the world of programming and tech!  
-I might not know much yet, but I'm super excited to learn and grow, one line of code at a time 🚀
+###🌱 Currently Learning
+- 🐘 PHP & Web Development
+- 🛠️ Git & GitHub
+- 🧠 Basic Programming Concepts
+
+<!---
+jipascript/jipascript is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
